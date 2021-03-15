@@ -3,7 +3,7 @@
 ---
 
 <h2> <font color='#7DCEA0'><a href="https://politicalpred.herokuapp.com/">Delphes</a></font></h2> 
-### Using Deeep Learning to Indicate which Member of the European Parliament or European Political Group is closest to your political views
+### Using Deep Learning to Indicate which Member of the European Parliament or European Political Group is closest to your political views
 <img src="images/delphes2.png?raw=true"/>
 ---
 <h2> <font color='#45B69C'>Memorable Sportspeople</font></h2>
