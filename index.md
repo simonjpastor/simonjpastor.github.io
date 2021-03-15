@@ -2,18 +2,18 @@
 
 ---
 
-<h2 style=color:#7DCEA0;><a href="https://politicalpred.herokuapp.com/">Delphes</a></h2> 
+<h2 style=color:#7DCEA0><a href="https://politicalpred.herokuapp.com/">Delphes</a></h2> 
 ###Using Deeep Learning to Indicate which Member of the European Parliament or European Political Group is closest to your political views
 <br
 <img src="images/delphes2.png?raw=true"/>
 
 ---
-[Memorable Sportspeople](/pdf/sample_presentation.pdf)
+<h2 style=color:#45B69C>Memorable Sportspeople</h2>
 <img src="images/memorable_people.png?raw=true"/>
 <img src="images/memorable_people2.png?raw=true"/>
 
 ---
-[TwittLists](https://twitter.com/Twitt_Lists)
+<h2 style=color:#7293A0><a href="https://twitter.com/Twitt_Lists">TwittLists</a></h2>
 <img src="images/twittlists1.png?raw=true"/>
 <img src="images/twittlists2.png?raw=true"/>
 ### In November alone the account reached 500K people
