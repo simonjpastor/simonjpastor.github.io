@@ -4,7 +4,7 @@
 
 ### Past Projects
 
-<h2 style='color:#7DCEA0;'><a href="https://politicalpred.herokuapp.com/">Delphes</a></h2> 
+<h2 style=color:#7DCEA0;><a href="https://politicalpred.herokuapp.com/">Delphes</a></h2> 
 Using Deeep Learning to Indicate which Member of the European Parliament or European Political Group is closest to your political views
 <br
 <img src="images/delphes2.png?raw=true"/>
