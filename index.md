@@ -3,7 +3,7 @@
 ---
 
 <h2> <font color='#3498DB'><a href="https://politicalpred.herokuapp.com/">Delphes</a></font></h2> 
-### Using Deep Learning to Indicate which Member of the European Parliament or European Political Group is closest to your political views
+### Delphes is ann Open-Source Deep-Learning website trained on more than 150 000 tweets from Members of the European Parliament (MEP) that matches European citizens with their closest European Political Group and MEP, based on a simple text-input or Twitter username.
 <img src="images/delphes2.png?raw=true"/>
 
 ---
@@ -13,6 +13,7 @@
 
 ---
 <h2> <font color='#7DCEA0'><a href="https://twitter.com/Twitt_Lists">TwittLists</a></font></h2>
+### TwittLists analyzes millions of public user-generated Twitter lists to create a ranking of the best Twitter accounts on a given topic ranging from Chess to French Mayors.
 <img src="images/twittlists1.png?raw=true"/>
 <img src="images/twittlists2.png?raw=true"/>
 ### In November alone the account reached 500K people
