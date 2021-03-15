@@ -5,7 +5,7 @@
 ### Past Projects
 
 [Delphes](/sample_page)
-<img src="images/delphes_2.png?raw=true"/>
+<img src="images/delphes2.png?raw=true"/>
 
 ---
 [Memorable Sportspeople](/pdf/sample_presentation.pdf)
