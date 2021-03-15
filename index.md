@@ -7,7 +7,7 @@
 <img src="images/delphes2.png?raw=true"/>
 
 ---
-<h2> <font color='#45B69C'>[Memorable Sportspeople](/memorable_sportspeople_map)</font></h2>
+[Memorable Sportspeople](/memorable-sportspeople-map)
 <img src="images/memorable_people.png?raw=true"/>
 <img src="images/memorable_people2.png?raw=true"/>
 
