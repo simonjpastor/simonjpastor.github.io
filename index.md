@@ -9,12 +9,12 @@
 <img src="images/delphes2.png?raw=true"/>
 
 ---
-<h2 style=color:#45B69C>Memorable Sportspeople</h2>
+<h2> <font color: '45B69C'>Memorable Sportspeople</font></h2>
 <img src="images/memorable_people.png?raw=true"/>
 <img src="images/memorable_people2.png?raw=true"/>
 
 ---
-<h2> <fontcolor:#7293A0><a href="https://twitter.com/Twitt_Lists">TwittLists</a></h2>
+<h2> <font color:'#7293A0'><a href="https://twitter.com/Twitt_Lists">TwittLists</a></font></h2>
 <img src="images/twittlists1.png?raw=true"/>
 <img src="images/twittlists2.png?raw=true"/>
 ### In November alone the account reached 500K people
