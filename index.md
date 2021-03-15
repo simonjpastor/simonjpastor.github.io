@@ -2,17 +2,17 @@
 
 ---
 
-<h2> <font color='#7DCEA0'><a href="https://politicalpred.herokuapp.com/">Delphes</a></font></h2> 
+<h2> <font color='#3498DB'><a href="https://politicalpred.herokuapp.com/">Delphes</a></font></h2> 
 ### Using Deep Learning to Indicate which Member of the European Parliament or European Political Group is closest to your political views
 <img src="images/delphes2.png?raw=true"/>
 
 ---
-[Memorable Sportspeople](/memorable-sportspeople-map)
+<h2> <font color='#5DADE2'><a href="simonjpastor.github.io/memorable-sportspeople-map">Memorable Sportspeople</a></font></h2> 
 <img src="images/memorable_people.png?raw=true"/>
 <img src="images/memorable_people2.png?raw=true"/>
 
 ---
-<h2> <font color='#7293A0'><a href="https://twitter.com/Twitt_Lists">TwittLists</a></font></h2>
+<h2> <font color='#7DCEA0'><a href="https://twitter.com/Twitt_Lists">TwittLists</a></font></h2>
 <img src="images/twittlists1.png?raw=true"/>
 <img src="images/twittlists2.png?raw=true"/>
 ### In November alone the account reached 500K people
