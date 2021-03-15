@@ -5,7 +5,7 @@
 <h2> <font color='#3498DB'><a href="https://politicalpred.herokuapp.com/" target='_blank'>Delphes</a></font></h2> 
 ### Delphes is ann Open-Source Deep-Learning website trained on more than 150 000 tweets from Members of the European Parliament (MEP) that matches European citizens with their closest European Political Group and MEP, based on a simple text-input or Twitter username.
 <img src="images/delphes2.png?raw=true"/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oVNXJ7HsroQ#t=52m19s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oVNXJ7HsroQ#t=52m19s&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 <h2> <font color='#5DADE2'><a href="https://simonjpastor.github.io/memorable-sportspeople-map" target='_blank'>Memorable Sportspeople</a></font></h2> 
