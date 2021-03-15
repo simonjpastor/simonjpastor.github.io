@@ -4,7 +4,7 @@
 
 ### Past Projects
 
-<h2 style='color:#7DCEA0'>[Delphes]</h2>(/sample_page) - Using Deeep Learning to 
+<h2 style='color:#7DCEA0'><a href="https://politicalpred.herokuapp.com/">Delphes</a></h2> - Using Deeep Learning to Indicate which Member of the European Parliament or European Political Group is closest to your political views
 <img src="images/delphes2.png?raw=true"/>
 
 ---
@@ -16,6 +16,7 @@
 [TwittLists](https://twitter.com/Twitt_Lists)
 <img src="images/twittlists1.png?raw=true"/>
 <img src="images/twittlists2.png?raw=true"/>
+### In November alone the account reached 500K people
 <img src="images/twittlists3.png?raw=true"/>
 
 ---
