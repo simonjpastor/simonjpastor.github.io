@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Past Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Delphes](/sample_page)
+<img src="images/delphes_2.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Memorable Sportspeople](/pdf/sample_presentation.pdf)
+<img src="images/memorable_people.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Other Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -26,10 +26,3 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
