@@ -4,7 +4,7 @@
 
 ### Past Projects
 
-[Delphes](/sample_page)
+<font color="#3498DB">[Delphes](/sample_page)</font>
 <img src="images/delphes2.png?raw=true"/>
 
 ---
