@@ -4,7 +4,7 @@
 
 ### Past Projects
 
-<h2 style='color:#7DCEA0'>[Delphes]</h2>(/sample_page)
+<h2 style='color:#7DCEA0'>[Delphes]</h2>(/sample_page) - Using Deeep Learning to 
 <img src="images/delphes2.png?raw=true"/>
 
 ---
@@ -13,8 +13,10 @@
 <img src="images/memorable_people2.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.png?raw=true"/>
+[TwittLists](https://twitter.com/Twitt_Lists)
+<img src="images/twittlists1.png?raw=true"/>
+<img src="images/twittlists2.png?raw=true"/>
+<img src="images/twittlists3.png?raw=true"/>
 
 ---
 
