@@ -6,10 +6,12 @@
 
 <font color="#7DCEA0">[Delphes](/sample_page)</font>
 <img src="images/delphes2.png?raw=true"/>
+<img src="images/delphes_1.png?raw=true"/>
 
 ---
 [Memorable Sportspeople](/pdf/sample_presentation.pdf)
 <img src="images/memorable_people.png?raw=true"/>
+<img src="images/memorable_people2.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
