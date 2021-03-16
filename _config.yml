@@ -1,4 +1,4 @@
-<center> <title> Simon Pastor </title> </center>
+title: Simon Pastor
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I'm an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy! 
@@ -11,3 +11,20 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-minimal
 google_analytics: UA-192273691-1
+
+<style type="text/css">
+  
+  h1.title {
+    font-size: 38px;
+    color: "#7DCEA0";
+    text-align: center;
+  }
+  
+  h3.description {
+    font-weight: bold;
+  
+  }
+  
+  
+
+</style>
