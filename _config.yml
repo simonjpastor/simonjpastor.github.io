@@ -9,24 +9,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://simonpastor.substack.com">Check out my Substack 💭</a>
   
+stylesheets:
+  screen:
+    - style.css
+  
 theme: jekyll-theme-minimal
 google_analytics: UA-192273691-1
-
-___
-
-<style type="text/css">
-  
-  h1.title {
-    font-size: 38px;
-    color: "#7DCEA0";
-    text-align: center;
-  }
-  
-  h3.description {
-    font-weight: bold;
-  
-  }
-  
-  
-
-</style>
