@@ -7,7 +7,7 @@
 <center>
   <img src="images/delphes2.png?raw=true"/>
 </center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oVNXJ7HsroQ?start=3148" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="160" src="https://www.youtube.com/embed/oVNXJ7HsroQ?start=3148" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
