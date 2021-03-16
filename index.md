@@ -10,14 +10,14 @@
 ---
 
 <h2> <font color='#5DADE2'><a href="https://simonjpastor.github.io/memorable-sportspeople-map" target='_blank'>Memorable Sportspeople</a></font></h2> 
-<h4> <font color='#909497' family="Merriweather">In this project, I mapped where the birthplace of the 10 000 most "memorable sportspeople" according to the MIT Pantheon WorldWide Project.</font>
+<h4> <font color='#909497' family="Merriweather">In this project, I mapped where the birthplace of the 10 000 most "memorable sportspeople" according to the MIT Pantheon WorldWide Project.</font> </h4>
 <img src="images/memorable_people.png?raw=true"/>
 <img src="images/memorable_people2.png?raw=true"/>
 
 ---
 
 <h2> <font color='#7DCEA0'><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists</a></font></h2>
-<h4> <font color='#909497' family="Merriweather">TwittLists analyzes millions of public user-generated Twitter lists to create a ranking of the best Twitter accounts on a given topic ranging from Chess to French Mayors.</font>
+<h4> <font color='#909497' family="Merriweather">TwittLists analyzes millions of public user-generated Twitter lists to create a ranking of the best Twitter accounts on a given topic ranging from Chess to French Mayors.</font> </h4>
 <img src="images/twittlists1.png?raw=true"/>
 <img src="images/twittlists2.png?raw=true"/>
 ### In November alone the account reached 500K people! 
