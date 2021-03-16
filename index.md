@@ -27,8 +27,8 @@
 
 ---
 
-<img src="2017_elections_lrem.png?raw=true"/>
-<img src="2017_elections_fn.png?raw=true"/>
+<img src="images/2017_elections_lrem.png?raw=true"/>
+<img src="images/2017_elections_fn.png?raw=true"/>
 
 ---
 
