@@ -10,7 +10,7 @@
 ---
 
 <h2> <font color='#5DADE2'><a href="https://simonjpastor.github.io/memorable-sportspeople-map" target='_blank'>Memorable Sportspeople</a></font></h2> 
-<h4> <font color='#909497' family="Merriweather">In this project, I mapped where the birthplace of the 10 000 most "memorable sportspeople" according to the MIT Pantheon WorldWide Project.</font> </h4>
+<h4> <font color='#909497' family="Merriweather">In this project, I mapped where the 10 000 most "memorable sportspeople" were born, according to the MIT Pantheon WorldWide Project.</font> </h4>
 <img src="images/memorable_people.png?raw=true"/>
 <img src="images/memorable_people2.png?raw=true"/>
 
