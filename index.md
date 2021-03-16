@@ -22,6 +22,8 @@
 <img src="images/twittlists3.png?raw=true"/>
 
 ---
+<iframe src="https://simonpastor.substack.com/embed" width="240" height="160" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"</iframe>
+
 
 <!-- ### Other Projects -->
 
