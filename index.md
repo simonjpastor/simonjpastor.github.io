@@ -31,6 +31,14 @@
   <iframe src="https://simonpastor.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">       </iframe>
 </center>
 
+---
+
+<img src="2017_elections_lrem.png?raw=true"/>
+<img src="2017_elections_fn.png?raw=true"/>
+
+
+
+
 
 <!-- ### Other Projects -->
 
