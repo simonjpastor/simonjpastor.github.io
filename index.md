@@ -29,13 +29,9 @@
 
 <h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonjpastor.github.io/2017-Elections" target='_blank'>2017 French Electoral Mapping</a></font></h2> 
 
-<h3> <font color='#909497' family="Merriweather"><i>La République en Marche</i> 2017 Presidential Results</font></h3>
 <img src="images/lrem.png?raw=true"/>
-<h3> <font color='#909497' family="Merriweather"><i>Front National</i> 2017 Presidential Results</font></h3>
 <img src="images/fn.png?raw=true"/>
-<h3><font color='#909497' family="Merriweather"><i>La France Insoumise</i> 2017 Presidential Results</font></h3>
 <img src="images/lfi.png?raw=true"/>
-<h3><font color='#909497' family="Merriweather"><i>Les Républicains</i> 2017 Presidential Results</font></h3>
 <img src="images/les_republicains.png?raw=true"/>
 
 ---
