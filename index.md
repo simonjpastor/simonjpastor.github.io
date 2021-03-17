@@ -30,7 +30,7 @@
 <h2> <font color='#3498DB' family="Merriweather">2017 French Electoral Mapping</font></h2> 
 
 ### LREM 2017 Legislative Results
-<img src="images/2017_elections_lrem.png?raw=true"/>
+<img src="images/lrem.png?raw=true"/>
 ### FN 2017 Presidential Results
 <img src="images/2017_elections_fn.png?raw=true"/>
 ### LFI 2017 Presidential Results
