@@ -32,11 +32,11 @@
 <h3> <font color='#909497' family="Merriweather"><i>La République en Marche</i> 2017 Presidential Results</font></h3>
 <img src="images/lrem.png?raw=true"/>
 <h3> <font color='#909497' family="Merriweather"><i>Front National</i> 2017 Presidential Results</font></h3>
-<img src="images/2017_elections_fn.png?raw=true"/>
+<img src="images/fn.png?raw=true"/>
 <h3><font color='#909497' family="Merriweather"><i>La France Insoumise</i> 2017 Presidential Results</font></h3>
 <img src="images/lfi.png?raw=true"/>
 <h3><font color='#909497' family="Merriweather"><i>Les Républicains</i> 2017 Presidential Results</font></h3>
-<img src="images/lr.png?raw=true"/>
+<img src="images/les_republicains.png?raw=true"/>
 
 ---
 
