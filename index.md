@@ -29,13 +29,13 @@
 
 <h2> <font color='#3498DB' family="Merriweather">2017 French Electoral Mapping</font></h2> 
 
-### LREM 2017 Legislative Results
+<h3> <a href="https://simonjpastor.github.io/2017-Elections" target='_blank'><i>La République en Marche</i> 2017 Presidential Results</a></h3>
 <img src="images/lrem.png?raw=true"/>
-### FN 2017 Presidential Results
+<h3><i>Front National</i> 2017 Presidential Results</h3>
 <img src="images/2017_elections_fn.png?raw=true"/>
-### LFI 2017 Presidential Results
+<h3><i>La France Insoumise</i> 2017 Presidential Results</h3>
 <img src="images/lfi.png?raw=true"/>
-### Les Republicains 2017 Presidential Results
+<h3><i>Les Républicains</i> 2017 Presidential Results</h3>
 <img src="images/lr.png?raw=true"/>
 
 ---
