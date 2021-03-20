@@ -22,9 +22,6 @@
 <h4> <font color='#909497' family="Merriweather">In this project, I mapped 60+ Participatory Budgets launched by cities all around the world on Cititzenlab's platform. </font> </h4>
 <img src="images/pb-0.png?raw=true"/>
 <img src="images/pb-1.png?raw=true"/>
-<img src="images/pb-2.png?raw=true"/>
-<img src="images/pb-3.png?raw=true"/>
-
 
 ---
 <h2> <font color='#7DCEA0'><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists</a></font></h2>
