@@ -36,7 +36,7 @@
 
 ---
 
-<h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonjpastor.com/2017-French-Presidential-Elections" target='_blank'>2017 French Electoral Mapping</a></font></h2> 
+<h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>2017 French Electoral Mapping</a></font></h2> 
 
 <img src="images/lrem.png?raw=true"/>
 <img src="images/fn.png?raw=true"/>
