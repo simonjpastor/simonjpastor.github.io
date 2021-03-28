@@ -15,7 +15,8 @@
   <img src="images/delphes2.png?raw=true"/>
 </center>
 <br>
-<h4> <font color='#909497' family="Merriweather">Check out my Presentation of Delphes at Le Wagon's Demo Day (The video is already set on my presentation to save you time) </font></h4> 
+<h4> <font color='#909497' family="Merriweather">Check out my Presentation of Delphes at Le Wagon's Demo Day
+  <br> (The video is already set on my presentation to save you time) </font></h4> 
 <iframe width="420" height="240" src="https://www.youtube.com/embed/oVNXJ7HsroQ?start=3148" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
