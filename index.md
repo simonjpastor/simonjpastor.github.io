@@ -2,7 +2,7 @@
 
 ---
 
-<h2> <font color='#5DADE2'><a href="https://simonjpastor.github.io/memorable-sportspeople-map" target='_blank'>Memorable Sportspeople</a></font></h2> 
+<h2> <font color='#5DADE2'><a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'>Memorable Sportspeople</a></font></h2> 
 <h4> <font color='#909497' family="Merriweather">In this project, I mapped where the 10 000 most "memorable sportspeople" were born, according to the MIT Pantheon WorldWide Project.</font> </h4>
 <img src="images/memorable_people.png?raw=true"/>
 <img src="images/memorable_people2.png?raw=true"/>
@@ -33,7 +33,7 @@
 
 ---
 
-<h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonjpastor.github.io/2017-French-Presidential-Elections" target='_blank'>2017 French Electoral Mapping</a></font></h2> 
+<h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonjpastor.com/2017-French-Presidential-Elections" target='_blank'>2017 French Electoral Mapping</a></font></h2> 
 
 <img src="images/lrem.png?raw=true"/>
 <img src="images/fn.png?raw=true"/>
