@@ -37,8 +37,8 @@
 ---
 
 <h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>2017 French Electoral Mapping</a></font></h2> 
-<h4> <font color='#909497' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>In this project</a>, I mapped the 2017 French Presidential Election Results. This resulted in 5 maps (as seen below), one displaying the general results, and four displaying the results of the most popular candidates (François Fillon, Marine Le Pen, Jean-Luc Mélenchon and Emmanuel Macron).</font> </h4>
-<br>
+<h4> <font color='#509CEC' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>In this project</a>, I mapped the 2017 French Presidential Election Results. This resulted in 5 maps (as seen below), one displaying the general results, and four displaying the results of the most popular candidates (François Fillon, Marine Le Pen, Jean-Luc Mélenchon and Emmanuel Macron).</font> </h4>
+
 <h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results</font> </h4>
 <img src="images/elections_general.png?raw=true"/>
 <img src="images/elections_general2.png?raw=true"/>
