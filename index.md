@@ -1,5 +1,5 @@
 <center>
-# Welcome to my Portfolio! 
+<h1> <font color='#5DADE2'>Welcome to my Portfolio!</font></h1>
 </center>
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-<h2> <font color='#3498DB' family="Merriweather"><a href="https://politicalpred.herokuapp.com/" target='_blank'>Delphes</a></font></h2> 
+<center><h2> <font color='#3498DB' family="Merriweather"><a href="https://politicalpred.herokuapp.com/" target='_blank'>Delphes</a></font></h2></center>
 <h4> <font color='#909497' family="Merriweather"><a href="https://politicalpred.herokuapp.com/" target='_blank'>Delphes</a> is an Open-Source Deep-Learning website trained on more than 150 000 tweets from Members of the European Parliament (MEP) that matches European citizens with their closest European Political Group and MEP, based on a simple text-input or Twitter username.</font></h4> 
 <center>
   <img src="images/delphes2.png?raw=true"/>
