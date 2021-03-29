@@ -38,11 +38,18 @@
 
 <h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>2017 French Electoral Mapping</a></font></h2> 
 
+<h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results</font> </h4>
 <img src="images/elections_general.png?raw=true"/>
-<img src="images/elections_fillon.png?raw=true"/>
-<img src="images/elections_lepen.png?raw=true"/>
-<img src="images/elections_melenchon.png?raw=true"/>
 <img src="images/elections_general2.png?raw=true"/>
+<h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results - François Fillon</font> </h4>
+<img src="images/elections_fillon.png?raw=true"/>
+<h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results - Marine Le Pen</font> </h4>
+<img src="images/elections_lepen.png?raw=true"/>
+<h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results - Jean-Luc Mélenchon</font> </h4>
+<img src="images/elections_melenchon.png?raw=true"/>
+<h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results - Emmanuel Macron</font> </h4>
+<img src="images/elections_macron.png?raw=true"/>
+
 
 ---
 
