@@ -38,10 +38,11 @@
 
 <h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>2017 French Electoral Mapping</a></font></h2> 
 
-<img src="images/lrem.png?raw=true"/>
-<img src="images/fn.png?raw=true"/>
-<img src="images/lfi.png?raw=true"/>
-<img src="images/les_republicains.png?raw=true"/>
+<img src="images/elections_general.png?raw=true"/>
+<img src="images/elections_fillon.png?raw=true"/>
+<img src="images/elections_lepen.png?raw=true"/>
+<img src="images/elections_melenchon.png?raw=true"/>
+<img src="images/elections_general2.png?raw=true"/>
 
 ---
 
