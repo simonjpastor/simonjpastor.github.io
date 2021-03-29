@@ -56,7 +56,7 @@
 ---
 
 <center> 
-  <iframe src="https://simonpastor.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">       </iframe>
+  <iframe src="https://simonpastor.substack.com/embed" width="384" height="256" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">       </iframe>
 </center>
 
 
