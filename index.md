@@ -41,7 +41,7 @@
 
 <h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results</font> </h4>
 <img src="images/elections_general.png?raw=true"/>
-<img src="images/elections_general2.png?raw=true"/>
+<img src="images/elections_general3.png?raw=true"/>
 <h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results - François Fillon</font> </h4>
 <img src="images/elections_fillon.png?raw=true"/>
 <h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results - Marine Le Pen</font> </h4>
