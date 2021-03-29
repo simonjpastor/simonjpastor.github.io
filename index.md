@@ -1,8 +1,9 @@
+<center>
 # Welcome to my Portfolio! 
-
+</center>
 ---
 
-<h2> <font color='#5DADE2'><a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'>Memorable Sportspeople</a></font></h2> 
+<center><h2> <font color='#5DADE2'><a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'>Memorable Sportspeople</a></font></h2></center>
 <h4> <font color='#909497' family="Merriweather"><a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'>In this project</a>, I mapped where the 10 000 most "memorable sportspeople" were born, according to the MIT Pantheon WorldWide Project.</font> </h4>
 <img src="images/memorable_people.png?raw=true"/>
 <img src="images/memorable_people2.png?raw=true"/>
@@ -21,13 +22,13 @@
 
 ---
 
-<h2> <font color='#3498DB' family="Merriweather"><a href="https://simonpastor.com/citizenlab-participatory-budgets" target='_blank'>CitizenLab Participatory Budgets Map</a></font></h2> 
+<center><h2> <font color='#3498DB' family="Merriweather"><a href="https://simonpastor.com/citizenlab-participatory-budgets" target='_blank'>CitizenLab Participatory Budgets Map</a></font></h2></center>
 <h4> <font color='#909497' family="Merriweather"><a href="https://simonpastor.com/citizenlab-participatory-budgets" target='_blank'>In this project</a>, I mapped 60+ Participatory Budgets launched by cities all around the world on Cititzenlab's platform. </font> </h4>
 <img src="images/pb-0.png?raw=true"/>
 <img src="images/pb-1.png?raw=true"/>
 
 ---
-<h2> <font color='#7DCEA0'><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists</a></font></h2>
+<center><h2> <font color='#7DCEA0'><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists</a></font></h2></center>
 <h4> <font color='#909497' family="Merriweather"><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists</a> analyzes millions of public user-generated Twitter lists to create a ranking of the best Twitter accounts on a given topic ranging from Chess to French Mayors.</font> </h4>
 <img src="images/twittlists1.png?raw=true"/>
 <img src="images/twittlists2.png?raw=true"/>
@@ -36,7 +37,7 @@
 
 ---
 
-<h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>2017 French Electoral Mapping</a></font></h2> 
+<center><h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>2017 French Electoral Mapping</a></font></h2></center>
 <h4> <font color='#75828a' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>In this project</a>, I mapped the 2017 French Presidential Election Results. This resulted in 5 maps (as seen below), one displaying the general results, and four displaying the results of the most popular candidates (François Fillon, Marine Le Pen, Jean-Luc Mélenchon and Emmanuel Macron).</font> </h4>
 
 <h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results</font> </h4>
