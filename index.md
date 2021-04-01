@@ -63,6 +63,11 @@
 
 <center><h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.substack.com" target='_blank'>SimonSays</a></font></h2></center>
 
+<h4> <font color='#75828a' family="Merriweather"> <a href="https://simonpastor.substack.com" target='_blank'>In this newsletter</a>, I write about politics, society fascinating stories, concepts and much more...</font> </h4>
+
+<img src="images/simonsays1.png?raw=true"/>
+<img src="images/simonsays2.png?raw=true"/>
+<img src="images/simonsays3.png?raw=true"/>
 
 
 
