@@ -59,6 +59,9 @@
   <iframe src="https://simonpastor.substack.com/embed" width="384" height="256" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">       </iframe>
 </center>
 
+---
+
+<center><h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.substack.com" target='_blank'>SimonSays</a></font></h2></center>
 
 
 
