@@ -18,6 +18,7 @@ body {
 
 .topnav {
   overflow: hidden;
+  top: 50%;
   background-color: #5DADE2;
 }
 
@@ -45,28 +46,27 @@ body {
       .dropdown {
       float: left;
       overflow: hidden;
+      color: #3498DB;
       }
       /* Dropdown button */
       .dropdown .dropbtn {
-      font-size: 16px;
-      border: none;
-      outline: none;
-      color: white;
+      float: center;
+      color: #3498DB;
+      text-align: center;
       padding: 14px 16px;
-      background-color: inherit;
-      font-family: inherit; /* Important for vertical align on mobile phones */
-      margin: 0;/* Important for vertical align on mobile phones */
-      width: 19%
+      text-decoration: none;
+      font-size: 17px;
+      min-width:19%;
+      margin:0;
       }
       /* Dropdown content (hidden by default) */
       .dropdown-content {
       display: none;
       position: absolute;
       background-color: #f9f9f9;
-      min-width: 160px;
+      min-width: 19%;
       box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
       z-index: 1;
-      width:19%;
       }
       /* Links inside the dropdown */
       .dropdown-content a {
@@ -75,11 +75,13 @@ body {
       padding: 12px 16px;
       text-decoration: none;
       display: block;
-      text-align: left;
+      text-align: center;
+      min-width:100%;
       }
       /* Add a grey background color to dropdown links on hover */
       .dropdown-content a:hover {
-      background-color: #ddd;
+      min-width:100%;
+      background-color: #cc2;
       }
       /* Show the dropdown menu on hover */
       .dropdown:hover .dropdown-content {
@@ -89,10 +91,10 @@ body {
    </style>
 </head>
 <body>
-   <div class="topnav">
-   <a class="active" href="#home">Home</a>
-   <a href="#news">Portfolio</a>
-   <div class="dropdown">
+  <div class="topnav">
+    <a class="active" href="#home">Home</a>
+    <a href="#news">Portfolio</a>
+    <!-- <div class="dropdown"> */
       <button class="dropbtn">
         <a href="#contact">SimonSays</a>
       <i class="fa fa-caret-down"></i>
@@ -102,11 +104,12 @@ body {
          <a href="#">Harmless Tradition or (Khat)astrophe?</a>
          <a href="#">Post-Covid Social Status:Unclear</a>
       </div>
+    </div> -->
+    <a href="#news">SimonSays</a>
+    <a href="#news">CV</a>
+    <a href="#about">Contact</a>
   </div>
-      <a href="#news">CV</a>
-      <a href="#about">Contact</a>
 
-   </div>
  </body>
    <div class="wrapper">
       <header>
