@@ -1,4 +1,4 @@
-<center>
+<!--<center>
 <h1> <font color='#5DADE2'>Welcome to my Portfolio!</font></h1>
 </center>
 ---
@@ -70,7 +70,7 @@
 
 <center>
   <iframe src="https://simonpastor.substack.com/embed" width="384" height="256" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">       </iframe>
-</center>
+</center> -->
 
 
 <!-- ### Other Projects Simon Pastor -->
