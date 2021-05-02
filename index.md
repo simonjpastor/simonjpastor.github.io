@@ -3,31 +3,6 @@
 </center>
 ---
 
-<div class="row">
-  <div class="column">
-    <img src="images/memorable_people.png">
-    <img src="images/memorable_people2.png">
-    <img src="images/delphes_1.png">
-  </div>
-  <div class="column">
-    <img src="images/elections_general.png">
-    <img src="images/elections_general3">
-    <img src="images/elections_fillon.png">
-    <img src="images/elections_lepen.png">
-  </div>
-  <div class="column">
-    <img src="images/twittlists1.png">
-    <img src="images/twittlists2.png">
-    <img src="images/twittlists3.png">
-  </div>
-  <div class="column">
-    <img src="images/pb-0.png">
-    <img src="images/pb-1.png">
-    <img src="images/simonsays3.png">
-  </div>
-</div>
-
-
 <center><h2> <font color='#5DADE2'><a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'>Memorable Sportspeople1</a></font></h2></center>
 <h4> <font color='#909497' family="Merriweather"><a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'>In this project</a>, I mapped where the 10 000 most "memorable sportspeople" were born, according to the MIT Pantheon WorldWide Project.</font> </h4>
 <a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'><img src="images/memorable_people.png?raw=true"/></a>
