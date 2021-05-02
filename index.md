@@ -3,7 +3,7 @@
 </center>
 ---
 
-<center><h2> <font color='#5DADE2'><a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'>Memorable Sportspeople1</a></font></h2></center>
+<center><h2> <font color='#5DADE2'><a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'>Memorable Sportspeople</a></font></h2></center>
 <h4> <font color='#909497' family="Merriweather"><a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'>In this project</a>, I mapped where the 10 000 most "memorable sportspeople" were born, according to the MIT Pantheon WorldWide Project.</font> </h4>
 <a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'><img src="images/memorable_people.png?raw=true"/></a>
 <a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'><img src="images/memorable_people2.png?raw=true"/></a>
