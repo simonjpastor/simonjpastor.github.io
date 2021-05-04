@@ -247,7 +247,7 @@ body {
     <div class="container"><img src="images/memorable_people.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
     <div class="container"><img src="images/memorable_people2.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
     <div class="container"><img src="images/delphes_1.png" class="image"><div class="overlay" onclick="URL_delphes()"><div class="text">Delphes</div></div></div>
-    <div class="container"><img src="images/delphes.png" class="image"><div class="overlay" onclick="URL_delphes()"><div class="text">Delphes</div></div></div>
+    <div class="container"><img src="images/delphes3.png" class="image"><div class="overlay" onclick="URL_delphes()"><div class="text">Delphes</div></div></div>
   </div>
   <div class="column">
     <div class="container"><img src="images/elections_general.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
