@@ -109,6 +109,15 @@ body {
   width: 100%;
 }
 
+.iframe {
+  width:100%;
+  height:auto;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
 .image {
   display: block;
   width: 100%;
