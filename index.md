@@ -117,10 +117,7 @@ body {
   right: 0;
   width:100%;
   height:100%;
-  border-top-left-radius: 3px;
-  border-bottom-left-radius: 3px;
-  border-top-right-radius: 3px;
-  border-bottom-right-radius: 3px;
+  border: none
 
 }
 
