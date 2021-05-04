@@ -306,6 +306,10 @@ function URL_delphes() {
     location.href = 'https://politicalpred.herokuapp.com/';
 }
 
+function URL_delphes2() {
+    location.href = 'https://slides.com/simonpastor/delphes/fullscreen';
+}
+
 function URL_elections() {
     location.href = 'https://simonpastor.com/2017-French-Presidential-Elections';
 }
