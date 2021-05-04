@@ -221,7 +221,7 @@ body {
   <!-- Header -->
 <div class="header" id="myHeader">
   <center><p style="font-size:22px"><font color='#5DADE2'>Welcome to my website! I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!</font></p>
-  <p style="font-size:15px">Click on the buttons to change the grid view. Click on an image to check out the project!</p></center>
+  <p style="font-size:15px">Click on the buttons to change the grid view & Click on an image to check out the project!</p></center>
   <center>
     <button class="btn" onclick="one()">1</button>
     <button class="btn active" onclick="two()">2</button>
