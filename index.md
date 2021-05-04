@@ -1,84 +1,331 @@
-<center>
-<h1> <font color='#5DADE2'>Welcome to my Portfolio!</font></h1>
-</center>
----
+<head>
 
-<center><h2> <font color='#5DADE2'><a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'>Memorable Sportspeople</a></font></h2></center>
-<h4> <font color='#909497' family="Merriweather"><a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'>In this project</a>, I mapped where the 10 000 most "memorable sportspeople" were born, according to the MIT Pantheon WorldWide Project.</font> </h4>
-<a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'><img src="images/memorable_people.png?raw=true"/></a>
-<a href="https://simonpastor.com/memorable-sportspeople-map" target='_blank'><img src="images/memorable_people2.png?raw=true"/></a>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
----
+.topnav {
+  overflow: hidden;
+  top: 50%;
+  background-color: #5DADE2;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
 
-<center><h2> <font color='#3498DB' family="Merriweather"><a href="https://politicalpred.herokuapp.com/" target='_blank'>Delphes</a></font></h2></center>
-<h4> <font color='#909497' family="Merriweather"><a href="https://politicalpred.herokuapp.com/" target='_blank'>Delphes</a> is an Open-Source Deep-Learning website trained on more than 150 000 tweets from Members of the European Parliament (MEP) that matches European citizens with their closest European Political Group and MEP, based on a simple text-input or Twitter username.</font></h4>
-<center>
-  <a href="https://politicalpred.herokuapp.com/" target='_blank'><img src="images/delphes2.png?raw=true"/></a>
-</center>
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  width: 19%;
+  margin:0;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #3498DB;
+  color: white;
+}
+      /* The dropdown container */
+      .dropdown {
+      float: left;
+      overflow: hidden;
+      color: #3498DB;
+      }
+      /* Dropdown button */
+      .dropdown .dropbtn {
+      float: center;
+      color: #3498DB;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      min-width:18.5%;
+      margin:0;
+      }
+      /* Dropdown content (hidden by default) */
+      .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #f9f9f9;
+      min-width: 18.5%;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+      }
+      /* Links inside the dropdown */
+      .dropdown-content a {
+      float: none;
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: center;
+      min-width:100%;
+      }
+      /* Add a grey background color to dropdown links on hover */
+      .dropdown-content a:hover {
+      min-width:100%;
+      background-color: #cc2;
+      }
+      /* Show the dropdown menu on hover */
+      .dropdown:hover .dropdown-content {
+      display: block;
+      }
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  padding: 0 4px;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.container:hover .overlay, .container:focus .overlay {
+  opacity: 0.7;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+@media screen and (max-width: 600px) {
+  .topnav {position: relative;}
+  .topnav a {
+    float: left;
+    display: block;
+    text-align: center;
+    width:100%;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+
+}
+
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #ddd;
+  cursor: pointer;
+  font-size: 18px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.btn:hover {
+  background-color: #666;
+}
+
+.btn a.active{
+  background-color: #666;
+}
+
+.btn a{
+  background-color: #666;
+}
+
+.btn:focus{
+    background-color:#666;
+}
+</style>
+</head>
+<body>
+
+
+  <div class="topnav">
+    <a class="active" href="https://simonpastor.com">Home</a>
+    <a href="https://simonpastor.com/portfolio">Portfolio</a>
+    <!-- <div class="dropdown"> */
+      <button class="dropbtn">
+        <a href="#contact">SimonSays</a>
+      <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+         <a href="#">Emperor Gaius Trump</a>
+         <a href="#">Harmless Tradition or (Khat)astrophe?</a>
+         <a href="#">Post-Covid Social Status:Unclear</a>
+      </div>
+    </div> -->
+    <a href="https://simonpastor.substack.com">SimonSays</a>
+    <a href="#news">Resume</a>
+    <a href="https://simonpastor.com/contact">Contact</a>
+  </div>
+
 <br>
-<h4> <font color='#909497' family="Merriweather">Check out my Presentation of Delphes at Le Wagon's Demo Day
-  <br> (The video is already set on my presentation to save you time) </font></h4>
-<center><iframe width="420" height="240" src="https://www.youtube.com/embed/oVNXJ7HsroQ?start=3148" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+  <!-- Header -->
+<div class="header" id="myHeader">
+  <center><p style="font-size:22px"><font color='#5DADE2'>Welcome to my website! I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!</font></p>
+  <p style="font-size:15px">Click on the buttons to change the grid view. Click on an image to check out the project!</p></center>
+  <center>
+    <button class="btn" onclick="one()">1</button>
+    <button class="btn active" onclick="two()">2</button>
+    <button class="btn" onclick="four()">4</button>
+  </center>
+</div>
 
----
+<br>
 
-<center><h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>2017 French Electoral Mapping</a></font></h2></center>
-<h4> <font color='#75828a' family="Merriweather"> <a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'>In this project</a>, I mapped the 2017 French Presidential Election Results. This resulted in 5 maps (as seen below), one displaying the general results, and four displaying the results of the most popular candidates (François Fillon, Marine Le Pen, Jean-Luc Mélenchon and Emmanuel Macron).</font> </h4>
+<!-- <div class="container">
+  <img src="images/memorable_people.png" class="image" onclick="URL_sports()">
+  <div class="overlay" onclick="URL_sports()">
+    <div class="text">Click to check out!!</div>
+  </div>
+</div> -->
 
-<h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results</font> </h4>
-<a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'><img src="images/elections_general.png?raw=true"/></a>
-<a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'><img src="images/elections_general3.png?raw=true"/></a>
-<h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results - François Fillon</font> </h4>
-<a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'><img src="images/elections_fillon.png?raw=true"/></a>
-<h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results - Marine Le Pen</font> </h4>
-<a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'><img src="images/elections_lepen.png?raw=true"/></a>
-<h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results - Jean-Luc Mélenchon</font> </h4>
-<a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'><img src="images/elections_melenchon.png?raw=true"/></a>
-<h4> <font color='#909497' family="Merriweather"> 1st Round Presidential Election Results - Emmanuel Macron</font> </h4>
-<a href="https://simonpastor.com/2017-French-Presidential-Elections" target='_blank'><img src="images/elections_macron.png?raw=true"/></a>
+<div class="row">
+  <div class="column">
+    <div class="container"><img src="images/memorable_people.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
+    <div class="container"><img src="images/memorable_people2.png" class="image" onclick="URL_sports()"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
+    <div class="container"><img src="images/delphes_1.png" class="image"><div class="overlay" onclick="URL_delphes()"><div class="text">Delphes</div></div></div>
+  </div>
+  <div class="column">
+    <div class="container"><img src="images/elections_general.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
+    <div class="container"><img src="images/elections_general3.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
+    <div class="container"><img src="images/elections_fillon.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
+    <div class="container"><img src="images/elections_lepen.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
+  </div>
+  <div class="column">
+    <div class="container"><img src="images/twittlists1.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
+    <div class="container"><img src="images/twittlists2.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
+    <div class="container"><img src="images/twittlists3.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
+  </div>
+  <div class="column">
+    <div class="container"><img src="images/pb-0.png" class="image"><div class="overlay" onclick="URL_citizenlab()"><div class="text">Citizenlab</div></div></div>
+    <div class="container"><img src="images/pb-1.png" class="image"><div class="overlay" onclick="URL_citizenlab()"><div class="text">Citizenlab</div></div></div>
+    <div class="container"><img src="images/simonsays3.png" class="image"><div class="overlay" onclick="URL_simonsays()"><div class="text">Simonsays</div></div></div>
+  </div>
+</div>
 
----
-<center><h2> <font color='#7DCEA0'><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists</a></font></h2></center>
-<h4> <font color='#909497' family="Merriweather"><a href="https://twitter.com/Twitt_Lists" target='_blank'>TwittLists</a> analyzes millions of public user-generated Twitter lists to create a ranking of the best Twitter accounts on a given topic ranging from Chess to French Mayors.</font> </h4>
-<a href="https://twitter.com/Twitt_Lists" target='_blank'>
-  <img src="images/twittlists1.png?raw=true"/>
-  <img src="images/twittlists2.png?raw=true"/>
-</a>
-### In November alone the account reached 500K people!
-<a href="https://twitter.com/Twitt_Lists" target='_blank'><img src="images/twittlists3.png?raw=true"/></a>
+<script>
+// Get the elements with class="column"
+var elements = document.getElementsByClassName("column");
 
----
+// Declare a loop variable
+var i;
 
-<center><h2> <font color='#3498DB' family="Merriweather"><a href="https://simonpastor.com/citizenlab-participatory-budgets" target='_blank'>CitizenLab Participatory Budgets Map</a></font></h2></center>
-<h4> <font color='#909497' family="Merriweather"><a href="https://simonpastor.com/citizenlab-participatory-budgets" target='_blank'>In this project</a>, I mapped 60+ Participatory Budgets launched by cities all around the world on Cititzenlab's platform. </font> </h4>
-<a href="https://simonpastor.com/citizenlab-participatory-budgets" target='_blank'>
-  <img src="images/pb-0.png?raw=true"/>
-  <img src="images/pb-1.png?raw=true"/>
-</a>
+// Full-width images
+function one() {
+    for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "100%";  // IE10
+    elements[i].style.flex = "100%";
+  }
+}
 
----
+// Two images side by side
+function two() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "50%";  // IE10
+    elements[i].style.flex = "50%";
+  }
+}
 
-<center><h2> <font color='#3498DB' family="Merriweather"> <a href="https://simonpastor.substack.com" target='_blank'>SimonSays</a></font></h2></center>
+// Four images side by side
+function four() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "25%";  // IE10
+    elements[i].style.flex = "25%";
+  }
+}
 
-<h4> <font color='#75828a' family="Merriweather"> <a href="https://simonpastor.substack.com" target='_blank'>In this newsletter</a>, I write about politics, society, books, podcasts and much more...</font> </h4>
+function URL_sports() {
+    location.href = 'https://simonpastor.com/memorable-sportspeople-map';
+}
 
-<a href="https://simonpastor.substack.com" target='_blank'><img src="images/simonsays3.png?raw=true"/></a>
-<a href="https://simonpastor.substack.com/p/emperor-gaius-trump" target='_blank'><img src="images/simonsays1.png?raw=true"/></a>
-<a href="https://simonpastor.substack.com/p/harmless-tradition-or-khat-astrophe" target='_blank'><img src="images/simonsays2.png?raw=true"/></a>
+function URL_delphes() {
+    location.href = 'https://politicalpred.herokuapp.com/';
+}
 
----
+function URL_elections() {
+    location.href = 'https://simonpastor.com/2017-French-Presidential-Elections';
+}
 
-<center>
-  <iframe src="https://simonpastor.substack.com/embed" width="384" height="256" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">       </iframe>
-</center>
+function URL_twittlists() {
+    location.href = 'https://twitter.com/Twitt_Lists';
+}
 
+function URL_citizenlab() {
+    location.href = 'https://simonpastor.com/citizenlab-participatory-budgets';
+}
 
-<!-- ### Other Projects Simon Pastor -->
+function URL_simonsays() {
+    location.href = 'https://simonpastor.substack.com';
+}
+// Add active class to the current button (highlight it)
+var header = document.getElementById("myHeader");
+var btns = header.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
 
-<!-- [Project 1 Title](http://example.com/) Simon Pastor
-- [Project 2 Title](http://example.com/) Simon Pastor
-- [Project 3 Title](http://example.com/) Simon Pastor
-- [Project 4 Title](http://example.com/) Simon Pastor
-- [Project 5 Title](http://example.com/) Simon Pastor -->
-
-
+</body>
