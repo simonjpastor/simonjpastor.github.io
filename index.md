@@ -342,5 +342,6 @@ for (var i = 0; i < btns.length; i++) {
   gtag('config', 'UA-192273691-1');
 </script>
 
+<!-- Simon Pastor © 2021 -->
 
 </body>
