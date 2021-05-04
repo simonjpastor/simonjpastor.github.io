@@ -107,6 +107,7 @@ body {
 .container {
   position: relative;
   width: 100%;
+  overflow: hidden;
 }
 
 .iframe_check {
