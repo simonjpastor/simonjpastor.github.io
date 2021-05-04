@@ -111,7 +111,7 @@ body {
 
 .iframe {
   width:100%;
-  height:auto;
+  height:100%;
   border-top-left-radius: 3px;
   border-bottom-left-radius: 3px;
   border-top-right-radius: 3px;
