@@ -178,7 +178,7 @@ body {
   border-bottom-right-radius: 3px;
 }
 
-.btn.active, .btn:hover {
+.btn:active, .btn:hover {
   background-color: #666;
 }
 
