@@ -178,7 +178,7 @@ body {
   border-bottom-right-radius: 3px;
 }
 
-.btn:active {
+.btn.active {
   background-color: #45a049;
 }
 
