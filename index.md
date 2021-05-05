@@ -187,11 +187,11 @@ body {
 }*/
 
 .btn a.active{
-  background-color: #666;
+  background-color: #45a049;
 }
 
 .btn:focus{
-    background-color:#666;
+    background-color:#45a049;
 }
 </style>
 </head>
