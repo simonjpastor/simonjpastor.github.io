@@ -199,7 +199,7 @@ body {
 
 
   <div class="topnav">
-    <a class="active" href="https://simonpastor.com">Home1</a>
+    <a class="active" href="https://simonpastor.com">Home</a>
     <a href="https://simonpastor.com/portfolio">Portfolio</a>
     <!-- <div class="dropdown"> */
       <button class="dropbtn">
@@ -224,7 +224,7 @@ body {
   <p style="font-size:15px">Click on the buttons to change the grid view & Click on an image to check out the project!</p></center>
   <center>
     <button class="btn" onclick="one()">1</button>
-    <button class="btn active" onclick="two()">2</button>
+    <button class="btn" onclick="two()">2</button>
     <button class="btn" onclick="four()">4</button>
   </center>
 </div>
@@ -276,15 +276,6 @@ function one() {
     elements[i].style.msFlex = "100%";  // IE10
     elements[i].style.flex = "100%";
   }
-  var header = document.getElementById("myHeader");
-  var btns = header.getElementsByClassName("btn");
-  for (var i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function() {
-    var current = document.getElementsByClassName("active");
-    current[0].className = current[0].className.replace(" active", "");
-    this.className += " active";
-  });
-}
 }
 
 // Two images side by side
