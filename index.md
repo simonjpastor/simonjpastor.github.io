@@ -182,9 +182,9 @@ body {
   background-color: #666;
 }
 
-/* Dropdown content (hidden by default) .btn a.active{
+.btn a.active{
   background-color: #666;
-}*/
+}
 
 .btn a.active{
   background-color: #45a049;
