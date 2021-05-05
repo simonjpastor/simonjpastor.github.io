@@ -298,12 +298,12 @@ function four() {
   }
 }
 
-function URL_sports() {
+function URL_sports2() {
     window.open('https://simonpastor.com/memorable-sportspeople-map','_blank');
 }
 
-function URL_sports2() {
-    location.href = 'https://simonpastor.com/memorable-sportspeople-map';
+function URL_sports() {
+    location.href = 'https://simonpastor.com/memorable-sportspeople-map?type=individual';
 }
 
 function URL_delphes() {
