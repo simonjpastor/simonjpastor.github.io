@@ -298,7 +298,7 @@ function four() {
   }
 }
 
-function URL_sports2() {
+function URL_sports22() {
     window.open('https://simonpastor.com/memorable-sportspeople-map','_blank');
 }
 
