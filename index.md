@@ -302,32 +302,28 @@ function URL_sports() {
     window.open('https://simonpastor.com/memorable-sportspeople-map', '_blank').focus();
     }
 
-function URL_sports2() {
-    location.href = 'https://simonpastor.com/memorable-sportspeople-map?type=individual';
-}
-
 function URL_delphes() {
-    location.href = 'https://politicalpred.herokuapp.com/?type=individual';
+    window.open('https://politicalpred.herokuapp.com/', '_blank').focus();
 }
 
 function URL_delphes_pres() {
-    location.href = 'https://slides.com/simonpastor/delphes/fullscreen?type=individual';
+    window.open('https://slides.com/simonpastor/delphes/fullscreen?', '_blank').focus();
 }
 
 function URL_elections() {
-    location.href = 'https://simonpastor.com/2017-French-Presidential-Elections?type=individual';
+    window.open('https://simonpastor.com/2017-French-Presidential-Elections', '_blank').focus();
 }
 
 function URL_twittlists() {
-    location.href = 'https://twitter.com/Twitt_Lists?type=individual';
+    window.open('https://twitter.com/Twitt_Lists', '_blank').focus();
 }
 
 function URL_citizenlab() {
-    location.href = 'https://simonpastor.com/citizenlab-participatory-budgets?type=individual';
+    window.open('https://simonpastor.com/citizenlab-participatory-budgets', '_blank').focus();
 }
 
 function URL_simonsays() {
-    location.href = 'https://simonpastor.substack.com?type=individual';
+    window.open('https://simonpastor.substack.com', '_blank').focus();
 }
 // Add active class to the current button (highlight it)
 var header = document.getElementById("myHeader");
