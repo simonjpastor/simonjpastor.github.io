@@ -303,7 +303,7 @@ function URL_sports() {
     }
 
 function URL_delphes() {
-    window.open('https://politicalpred.herokuapp.com/', '_blank').focus();
+    window.open('https://politicalpred.herokuapp.com', '_blank').focus();
 }
 
 function URL_delphes_pres() {
