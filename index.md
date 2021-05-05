@@ -191,7 +191,7 @@ body {
 }
 
 .btn.focus{
-    background-color:#45a049;
+    background-color:#45a099;
 }
 </style>
 </head>
