@@ -179,7 +179,7 @@ body {
 }
 
 .btn.active {
-  background-color: #45a049;
+  background-color: #666;
 }
 
 .btn:hover {
@@ -187,11 +187,11 @@ body {
 }
 
 .btn a.active{
-  background-color: #045a99;
+  background-color: #666;
 }
 
 .btn.focus{
-    background-color:#45a099;
+    background-color:#666;
 }
 </style>
 </head>
@@ -224,7 +224,7 @@ body {
   <p style="font-size:15px">Click on the buttons to change the grid view & Click on an image to check out the project!</p></center>
   <center>
     <button class="btn" onclick="one()">1</button>
-    <button class="btn" onclick="two()">2</button>
+    <button class="btn active" onclick="two()">2</button>
     <button class="btn" onclick="four()">4</button>
   </center>
 </div>
