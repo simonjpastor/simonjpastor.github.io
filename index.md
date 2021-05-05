@@ -302,7 +302,7 @@ function URL_sports() {
     window.open('https://simonpastor.com/memorable-sportspeople-map');
 }
 
-function URL_sports2() {
+function URL_sports22() {
     location.href = 'https://simonpastor.com/memorable-sportspeople-map';
 }
 
