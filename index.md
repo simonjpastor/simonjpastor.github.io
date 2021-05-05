@@ -186,7 +186,7 @@ body {
   background-color: #666;
 }*/
 
-.btn a{
+.btn a.active{
   background-color: #666;
 }
 
