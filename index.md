@@ -178,7 +178,11 @@ body {
   border-bottom-right-radius: 3px;
 }
 
-.btn:active, .btn:hover {
+.btn:active {
+  background-color: #45a049;
+}
+
+.btn:hover {
   background-color: #666;
 }
 
