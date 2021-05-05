@@ -178,12 +178,12 @@ body {
   border-bottom-right-radius: 3px;
 }
 
-.btn.active, .btn:hover {
+.btn:active, .btn:hover {
   background-color: #666;
 }
 
 .btn a.active{
-  background-color: #666;
+  background-color: #45a099;
 }
 
 .btn.focus{
