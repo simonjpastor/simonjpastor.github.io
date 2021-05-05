@@ -224,7 +224,7 @@ body {
   <p style="font-size:15px">Click on the buttons to change the grid view & Click on an image to check out the project!</p></center>
   <center>
     <button class="btn" onclick="one()">1</button>
-    <button class="btn focus" onclick="two()">2</button>
+    <button class="btn" onclick="two()">2</button>
     <button class="btn" onclick="four()">4</button>
   </center>
 </div>
