@@ -186,10 +186,6 @@ body {
   background-color: #666;
 }
 
-.btn a.active{
-  background-color: #45a049;
-}
-
 .btn.focus{
     background-color:#45a099;
 }
