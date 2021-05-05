@@ -299,7 +299,7 @@ function four() {
 }
 
 function URL_sports() {
-    window.open('https://simonpastor.com/memorable-sportspeople-map');
+    window.open('https://simonpastor.com/memorable-sportspeople-map','_blank');
 }
 
 function URL_sports22() {
