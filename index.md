@@ -300,6 +300,7 @@ function four() {
 
 function URL_sports() {
     window.open('https://simonpastor.com/memorable-sportspeople-map?', '_blank').focus()
+    }
 
 function URL_sports22() {
     location.href = 'https://simonpastor.com/memorable-sportspeople-map?type=individual';
