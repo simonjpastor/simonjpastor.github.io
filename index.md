@@ -4,7 +4,7 @@
   <meta name="description" property="og:description" content="Welcome to my website! I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!">
   <meta name="image" property="og:image" content="https://github.com/simonjpastor/simonjpastor.github.io/blob/master/images/summary.png">
   <meta name="url" property="og:url" content="https://simonpastor.com">
-  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Simon Pastor" />
   <meta name="twitter:description" content="Welcome to my website! I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!" />
   <meta name="twitter:image" content="https://github.com/simonjpastor/simonjpastor.github.io/blob/master/images/summary.png" />
