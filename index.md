@@ -6,10 +6,10 @@
   <meta name="twitter:image" content="https://github.com/simonjpastor/simonjpastor.github.io/blob/master/images/summary.png" />
   <meta name="twitter:site" content="http://simonpastor.com" />
   <meta name="twitter:creator" content="@the_simonpastor" />
-  <meta name="title" prefix="og: http://ogp.me/ns#" property="og:title" content="Simon Pastor">
-  <meta name="description" prefix="og: http://ogp.me/ns#" property="og:description" content="Welcome to my website! I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!">
-  <meta name="image" prefix="og: http://ogp.me/ns#" property="og:image" content="https://github.com/simonjpastor/simonjpastor.github.io/blob/master/images/summary.png">
-  <meta name="url" prefix="og: http://ogp.me/ns#" property="og:url" content="https://simonpastor.com">
+  <meta name="title" property="og:title" content="Simon Pastor">
+  <meta name="description" property="og:description" content="Welcome to my website! I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!">
+  <meta name="image" property="og:image" content="https://github.com/simonjpastor/simonjpastor.github.io/blob/master/images/summary.png">
+  <meta name="url" property="og:url" content="https://simonpastor.com">
   <!-- <meta name="twitter:card" content="summary_large_image"> -->
 
 <style>
