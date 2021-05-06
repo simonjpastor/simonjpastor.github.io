@@ -1,7 +1,10 @@
 <head>
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@the_simonpastor" />
+  <meta name="twitter:title" content="Simon Pastor" />
+  <meta name="twitter:description" content="Welcome to my website! I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!" />
+  <meta name="twitter:image" content="https://github.com/simonjpastor/simonjpastor.github.io/blob/master/images/summary.png" />
+  <meta name="twitter:site" content="http://simonpastor.com/" />
   <meta name="twitter:creator" content="@the_simonpastor" />
   <meta prefix="og: http://ogp.me/ns#" property="og:title" content="Simon Pastor" />
   <meta prefix="og: http://ogp.me/ns#" property="og:description" content="Welcome to my website! I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!" />
