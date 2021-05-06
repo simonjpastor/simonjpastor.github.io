@@ -3,7 +3,7 @@
   <meta property="og:title" content="Simon Pastor">
   <meta property="og:description" content="Welcome to my website! I'm Simon, an LSE Government and History alumnus passionate about the intersection of Data and Politics/Policy!">
   <meta property="og:image" content="images/summary.png">
-  <meta property="og:url" content="https://simonpastor.com/">
+  <meta property="og:url" content="https://simonpastor.com">
   <meta name="twitter:card" content="summary_large_image">
 
 <style>
