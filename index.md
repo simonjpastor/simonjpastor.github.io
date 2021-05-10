@@ -10,6 +10,7 @@
   <meta name="twitter:image" content="https://github.com/simonjpastor/simonjpastor.github.io/blob/master/images/summary.png">
   <meta name="twitter:site" content="https://ibb.co/ZcV58rZ">
   <meta name="twitter:creator" content="@the_simonpastor">
+  <link rel="shortcut icon" href="https://pbs.twimg.com/profile_images/1258361654196273152/iVC7WxdB_400x400.jpg" type="image/x-icon">
   <!-- <meta name="twitter:card" content="summary_large_image"> -->
 
 <style>
