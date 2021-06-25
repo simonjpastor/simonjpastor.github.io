@@ -261,6 +261,7 @@ body {
     <div class="container"><img src="images/elections_lepen.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
   </div>
   <div class="column">
+    <div class="container"><img src="images/goodreads_result.png" class="image"><div class="overlay" onclick="goodreads()"><div class="text">Goodreads Machine Learning</div></div></div>
     <div class="container"><img src="images/twittlists1.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
     <div class="container"><img src="images/twittlists2.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
     <div class="container"><img src="images/twittlists3.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
@@ -302,6 +303,10 @@ function four() {
     elements[i].style.flex = "25%";
   }
 }
+
+function goodreads() {
+    window.open('https://simonpastor.substack.com/p/predicting-my-next-favorite-book', '_blank').focus();
+    }
 
 function URL_sports() {
     window.open('https://simonpastor.com/memorable-sportspeople-map', '_blank').focus();
