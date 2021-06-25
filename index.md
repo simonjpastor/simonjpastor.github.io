@@ -10,7 +10,13 @@
   <meta name="twitter:image" content="https://github.com/simonjpastor/simonjpastor.github.io/blob/master/images/summary.png">
   <meta name="twitter:site" content="https://ibb.co/ZcV58rZ">
   <meta name="twitter:creator" content="@the_simonpastor">
-  <link rel="shortcut icon" href="https://pbs.twimg.com/profile_images/1258361654196273152/iVC7WxdB_400x400.jpg" type="image/x-icon">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
   <!-- <meta name="twitter:card" content="summary_large_image"> -->
 
 <style>
