@@ -259,6 +259,7 @@ body {
     <div class="container"><img src="images/memorable_8.png" class="image"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
     <div class="container"><img src="images/revisions2.png" class="image"><div class="overlay" onclick="ppt_bls()"><div class="text">Bureau of Labor Statistics</div></div></div>
     <div class="container"><img src="images/outliers2.png" class="image"><div class="overlay" onclick="ppt_bls()"><div class="text">Bureau of Labor Statistics</div></div></div>
+    <div class="container"><img src="images/outliers.gif" class="image"><div class="overlay" onclick="ppt_bls()"><div class="text">Bureau of Labor Statistics</div></div></div>
   </div>
   <div class="column">
     <div class="container"><img src="images/elections_general.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
