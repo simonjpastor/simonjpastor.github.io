@@ -259,7 +259,7 @@ body {
     <div class="container"><img src="images/memorable_8.png" class="image"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
     <div class="container"><img src="images/revisions2.png" class="image"><div class="overlay" onclick="ppt_bls()"><div class="text">Bureau of Labor Statistics</div></div></div>
     <div class="container"><img src="images/outliers2.png" class="image"><div class="overlay" onclick="ppt_bls()"><div class="text">Bureau of Labor Statistics</div></div></div>
-    <div class="container"><img src="images/outliers.gif" class="image"><div class="overlay" onclick="ppt_bls()"><div class="text">Bureau of Labor Statistics</div></div></div>
+    <!--<div class="container"><img src="images/outliers.gif" class="image"><div class="overlay" onclick="ppt_bls()"><div class="text">Bureau of Labor Statistics</div></div></div> -->
   </div>
   <div class="column">
     <div class="container"><img src="images/elections_general.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
@@ -277,7 +277,7 @@ body {
     <div class="container"><img src="images/delphes_1.png" class="image"><div class="overlay" onclick="URL_delphes()"><div class="text">Delphes</div></div></div>
     <div class="container"><img src="images/delphes3.png" class="image"><div class="overlay" onclick="URL_delphes_pres()"><div class="text">Delphes</div></div></div>
     <div class="container"><img src="images/pb-0.png" class="image"><div class="overlay" onclick="URL_citizenlab()"><div class="text">Citizenlab</div></div></div>
-    <div class="container"><img src="images/pb-1.png" class="image"><div class="overlay" onclick="URL_citizenlab()"><div class="text">Citizenlab</div></div></div>
+    <!-- <div class="container"><img src="images/pb-1.png" class="image"><div class="overlay" onclick="URL_citizenlab()"><div class="text">Citizenlab</div></div></div> -->
     <div class="container"><img src="images/simonsays3.png" class="image"><div class="overlay" onclick="URL_simonsays()"><div class="text">Simonsays</div></div></div>
   </div>
 </div>
