@@ -255,6 +255,8 @@ body {
 
 <div class="row">
   <div class="column">
+    <div class="container"><img src="images/PQR_themes.png" class="image"><div class="overlay" onclick="pqr_analyse()"><div class="text">Macron Campaign - Regional Thematic Analysis</div></div></div>
+    <div class="container"><img src="images/PQR_candidats.png" class="image"><div class="overlay" onclick="pqr_analyse()"><div class="text">Macron Campaign - Regional Thematic Analysis</div></div></div>
     <div class="container"><img src="images/memorable_3.png" class="image"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
     <div class="container"><img src="images/memorable_8.png" class="image"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
     <div class="container"><img src="images/revisions2.png" class="image"><div class="overlay" onclick="ppt_bls()"><div class="text">Bureau of Labor Statistics</div></div></div>
@@ -316,7 +318,9 @@ function four() {
 function ppt_bls() {
     window.open('https://drive.google.com/file/d/1ggI-OoR4LgruJIjXQFwq-QUqdd_jdcfg/view', '_blank').focus();
     }
-
+function pqr_analyse() {
+    window.open('https://simonjpastor-pqr-analyse-viz-93qmmi.streamlitapp.com/', '_blank').focus();
+    }
 function goodreads() {
     window.open('https://simonpastor.substack.com/p/predicting-my-next-favorite-book', '_blank').focus();
     }
