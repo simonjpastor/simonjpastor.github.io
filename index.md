@@ -255,7 +255,7 @@ body {
 
 <div class="row">
   <div class="column">
-    <div class="container"><img src="images/PQR_themes.png" class="image"><div class="overlay" onclick="pqr_analyse()"><div class="text">Macron Campaign - Regional Thematic Analysis</div></div></div>
+    <div class="container"><img src="images/PQR_themes.png" class="image"><div class="overlay" onclick="pqr_analyse()"><div class="text">Macron Campaign - Regional Press Thematic Analysis</div></div></div>
     <div class="container"><img src="images/PQR_candidats.png" class="image"><div class="overlay" onclick="pqr_analyse()"><div class="text">Macron Campaign - Regional Thematic Analysis</div></div></div>
     <div class="container"><img src="images/memorable_3.png" class="image"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
     <div class="container"><img src="images/memorable_8.png" class="image"><div class="overlay" onclick="URL_sports()"><div class="text">Memorable Sportspeople</div></div></div>
