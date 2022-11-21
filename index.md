@@ -263,12 +263,12 @@ body {
     <div class="container"><img src="images/outliers2.png" class="image"><div class="overlay" onclick="ppt_bls()"><div class="text">Bureau of Labor Statistics</div></div></div>
     <!--<div class="container"><img src="images/outliers.gif" class="image"><div class="overlay" onclick="ppt_bls()"><div class="text">Bureau of Labor Statistics</div></div></div> -->
   </div>
-  <div class="column">
+ <!--  <div class="column">
     <div class="container"><img src="images/elections_general.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
     <div class="container"><img src="images/elections_general3.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
     <div class="container"><img src="images/elections_fillon.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
     <div class="container"><img src="images/elections_lepen.png" class="image"><div class="overlay" onclick="URL_elections()"><div class="text">French Presidential Elections</div></div></div>
-  </div>
+  </div> -->
   <div class="column">
     <div class="container"><img src="images/spider.jpg" class="image"><div class="overlay" onclick="goodreads()"><div class="text">Goodreads Project 📚</div></div></div>
     <div class="container"><img src="images/twittlists1.png" class="image"><div class="overlay" onclick="URL_twittlists()"><div class="text">Twittlists</div></div></div>
@@ -337,9 +337,9 @@ function URL_delphes_pres() {
     window.open('https://slides.com/simonpastor/delphes/fullscreen?', '_blank').focus();
 }
 
-function URL_elections() {
-    window.open('https://simonpastor.com/2017-French-Presidential-Elections', '_blank').focus();
-}
+// function URL_elections() {
+//     window.open('https://simonpastor.com/2017-French-Presidential-Elections', '_blank').focus();
+// }
 
 function URL_twittlists() {
     window.open('https://twitter.com/Twitt_Lists', '_blank').focus();
