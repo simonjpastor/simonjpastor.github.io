@@ -31,15 +31,12 @@
     <div class="big-name">
       <h1><b>Simon Pastor/b></h1>
     </div>
-    <p class="p-padding"> <b> senior [on leave] @ harvard studying <a href="https://github.comsionjpastor">cs</a> + <a href="https://drive.google.com/file/d/1mJafc8OxSYW_3tQ1SegbwgzNN6BcqAqv/view?usp=sharing">government</a> </b> </p>
       <br>
     <div class="p-body">
       <p> <b>current</b> associate @ <a href="https://www.joinef.com">Entrepreneur First</a> &amp; 
       </p>
       <br>
-      <br>
       <p><b>say hello</b> on <a href="https://www.linkedin.com/in/simonpastor/">linkedin</a> and <a href="https://twitter.com/the_simonpastor">x</a></p>
-      <br>
       <!-- <p> <b> now~ </b> </p> -->
       <p> <i> working </i> on <a href="https://simonpastor.substack.com/">conflict modeling</a> throughts</p>
       <p> <i> located in </i> nyc — it is <span id="time">10:59:26<bn> </bn></span></p>
