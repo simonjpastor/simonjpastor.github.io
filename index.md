@@ -1,6 +1,6 @@
 <html lang="en"><head>
   <meta charset="utf-8">
-  <title>Simon Pastor/title>
+  <title>Simon Pastor</title>
   <!-- 
   <link rel="stylesheet" href="assets/css/styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"> -->
@@ -27,9 +27,8 @@
   <!-- <div id="menu-container"></div> -->
   <div class="border-div">
     <div class="big-name">
-      <h1><b>Simon Pastor/b></h1>
+      <h1><b>Simon Pastor</b></h1>
     </div>
-      <br>
     <div class="p-body">
       <p> <b>current</b> associate @ <a href="https://www.joinef.com">Entrepreneur First</a> &amp; 
       </p>
