@@ -1,4 +1,5 @@
-<html lang="en"><head>
+<html lang="en">
+<head>
   <title>Simon Pastor</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -54,9 +55,31 @@
       <p><b>connect</b> on <a href="https://www.linkedin.com/in/simonpastor/">Linkedin</a> or say hello on <a href="https://twitter.com/the_simonpastor">X</a></p>
       <!-- <p> <b> now~ </b> </p> -->
       <p> <i> based in </i> nyc — where it is 
+        <div id="liveTime"></div>
+
         <script>
-          setInterval(() => document.getElementById('currentTime').textContent = new Date().toLocaleTimeString(), 1000);
-        </script>
+        function updateLiveTime() {
+            var liveTimeElement = document.getElementById('liveTime');
+            var now = new Date();
+            var hours = now.getHours();
+            var minutes = now.getMinutes();
+            var seconds = now.getSeconds();
+
+            // Add leading zero if needed
+            hours = hours < 10 ? '0' + hours : hours;
+            minutes = minutes < 10 ? '0' + minutes : minutes;
+            seconds = seconds < 10 ? '0' + seconds : seconds;
+
+            // Display the formatted time
+            liveTimeElement.textContent = hours + ':' + minutes + ':' + seconds;
+        }
+
+        // Update the time every second
+        setInterval(updateLiveTime, 1000);
+
+        // Initial call to display the time immediately
+        updateLiveTime();
+      </script>
       </p>
     </div> 
     <div class="footer">
