@@ -51,7 +51,11 @@
       <br>
       <p><b>connect</b> on <a href="https://www.linkedin.com/in/simonpastor/">Linkedin</a> or say hello on <a href="https://twitter.com/the_simonpastor">X</a></p>
       <!-- <p> <b> now~ </b> </p> -->
-      <p> <i> based in </i> nyc — where it is <span id="time">10:59:26<bn> </bn></span></p>
+      <p> <i> based in </i> nyc — where it is 
+        <script>
+          setInterval(() => document.getElementById('currentTime').textContent = new Date().toLocaleTimeString(), 1000);
+        </script>
+      </p>
     </div>
     <br>    
     <div class="footer">
